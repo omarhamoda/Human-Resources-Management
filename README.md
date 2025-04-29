@@ -1,4 +1,5 @@
 🧾 HR Management System – EL-Mizan
+
 📌 Overview
 I independently developed a comprehensive Human Resources Management System (HRMS) tailored to handle every detail of employee lifecycle management — from onboarding and attendance to salary generation, deductions, and in-depth reporting. The system is built to ensure accuracy, automation, and administrative ease, with over 20 dynamic reports designed to support data-driven decision-making.
 
